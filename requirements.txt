@@ -1,7 +1,5 @@
-
-
 Flask==2.2.3
 opencv-python-headless==4.7.0.72
-dlib==19.24.2
 imutils==0.5.4
 numpy==1.23.5
+dlib==19.24.2  # Ensure this version is correct and compatible
